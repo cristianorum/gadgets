@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<gadget> 
+<name>ISS</name> 
+<version>1.0</version> 
+<author name="CE3BKN"> 
+<info url="http://ce3bkn.blogspot.com" /> 
+</author> 
+<copyright>&#169; 2021</copyright> 
+<description>Gadget que permite conocer la ubicacion de la ISS</description> 
+<hosts> 
+<host name="sidebar"> 
+<base type="HTML" src="index.html" /> 
+<permissions>full</permissions> 
+<platform minPlatformVersion="1.0" /> 
+</host> 
+</hosts> 
+</gadget>
