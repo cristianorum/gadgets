@@ -3,10 +3,11 @@
 <name>ISS</name> 
 <version>1.0</version> 
 <author name="CE3BKN"> 
-<info url="http://ce3bkn.blogspot.com" /> 
+<info url="http://ce3bkn.blogspot.com" />
+<logo src="ham.png"/>
 </author> 
 <copyright>&#169; 2021</copyright> 
-<description>Gadget que permite conocer la ubicacion de la ISS</description> 
+<description>Gadget que permite conocer la ubicacion de la ISS, puedes encontrar actualizaciones en: https://github.com/cristianorum</description> 
 <hosts> 
 <host name="sidebar"> 
 <base type="HTML" src="index.html" /> 
